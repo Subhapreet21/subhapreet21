@@ -21,4 +21,9 @@ I am a dedicated and motivated Computer Science student with a strong passion fo
 ---
 [![](https://visitcount.itsvg.in/api?id=subhapreet21&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://github.com/Subhapreet21/subhapreet21/blob/output/github-snake-dark.svg" alt="snake gif">
+  <p><i>This animation shows my GitHub activity as a snake game 🐍 — eating my contributions across the calendar!</i></p>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
